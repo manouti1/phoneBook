@@ -13,7 +13,7 @@
     "API",
     "Mongodb"
   ],
-  "author": "Mahesh Bhanushali",
+  "author": "Mohammad Anouti",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "2.0.1",
